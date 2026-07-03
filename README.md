@@ -1,6 +1,5 @@
 # Exercise-7
- Git exercises
-in any block that have question will be sections with answers at it the end of the block
+ this file show the flow of what I did in this Exercise .in any block that have question the answers will be at the end that block
  
 ## Block 1 – First Local Repository: Core Workflow
 no issues was found at this block
