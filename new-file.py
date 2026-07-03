@@ -1,1 +1,2 @@
-print ( "this is a new file at copy B" )
+print("this is a new file")
+
