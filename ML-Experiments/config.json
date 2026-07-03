@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "LinearRegression"
+  },
+  "training": {
+    "test_size": 0.2,
+    "random_state": 42
+  },
+  "parameters": {
+    "fit_intercept": true
+  }
+}
